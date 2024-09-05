@@ -1,0 +1,54 @@
+body{
+    background-color: #DED8C2;
+}
+h1 {
+    color: #6C1B13;
+    text-align: center;
+    font-family: Verdana;
+}
+p {
+    color: #89592F;
+    font-family:'Times New Roman';
+    font-size: 18px;
+    text-align: justify;
+}
+footer {
+    color: #6C1B13;
+    text-align: center;
+    font-size: 15px;
+}
+  button {
+    background-color: #6C1B13;
+    border: none;
+    color: bisque;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: forestgreen;
+    cursor: pointer;
+  }
+  section {
+    text-align: center;
+  }
+  h2 {
+    color: bisque;
+  }
+a {
+  color: #969AA4;
+}
+.resultados-pesquisa {
+  padding: 5rem;
+  width: 60rem;
+  border-radius: 0.3rem;
+  margin-top: 1rem;
+}
+.descrição-meta {
+color: bisque;
+}
+p {
+  text-align: center;
+}
+div {
+  background-color: #6C1B13;
+  border: 10px;
+  border-radius: 10x;
+}
